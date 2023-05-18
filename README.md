@@ -44,3 +44,9 @@ The code uses delay functions from the <util/delay.h> library to introduce delay
 
 # Contributors
 This code was developed by Team 16.
+- [@Hesham Khaled](https://github.com/HeshamKhaled1)
+- [@Kamilia Ahmed](https://github.com/Kamilia98)
+- [@Muhammed Emaddine](https://github.com/m-emadeddin)
+- [@Hazem Abdelnaser]
+- [@Moaaz Ibrahim]
+
